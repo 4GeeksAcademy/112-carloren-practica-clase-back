@@ -6,8 +6,6 @@ ports:
       onOpen: ignore
 
 vscode:
-  extensions:
-    - learn-pack.learnpack-vscode
     
 github:
     prebuilds:
